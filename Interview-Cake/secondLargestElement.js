@@ -18,6 +18,10 @@
  *
  * We can use our original algorithm to find the largest on this subtree to find the answer.
  *
+ *
+ * Complexity:
+ * Time: O(h), with h = height of the tree
+ * Space: O(1)
  */
 
 //import binary tree
