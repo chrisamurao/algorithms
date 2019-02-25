@@ -1,4 +1,5 @@
 /**
+ * Scenario:
  * Suppose we could access yesterday's stock prices as an array, where:
  *
  * * The values are the price in dollars of Apple Stock
