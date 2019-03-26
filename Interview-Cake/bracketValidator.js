@@ -1,3 +1,5 @@
+// Write a function that examines a string of text and determines whether the brackets even
+
 function isValid(code) {
   const openersToClosers = {
     "{": "}",
